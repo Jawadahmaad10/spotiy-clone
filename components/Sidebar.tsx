@@ -67,7 +67,7 @@ const Sidebar: React.FC<SideBarProps> = ({ children }) => {
     {/* <Box className="overflow-y-auto h-full"> */}
     <Box className="flex flex-col h-full overflow-y-auto p-4 gap-2">
       <Library>
-       <div> Jawad</div>
+       
       </Library>
     </Box>
     </div> 
